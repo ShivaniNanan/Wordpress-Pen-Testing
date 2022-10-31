@@ -17,7 +17,7 @@ Time spent: **15** hours spent in total
     1. Comment on a post using a non admin profile
     2. Admin approve the comment
     3. User without admin profile comments again and does not need further approvals from admin
-- [ ] Affected source code:
+- [ ] Affected source code: http://wpdistillery.vm/?page_id=24
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
   
 ### 2. Stored XSS
