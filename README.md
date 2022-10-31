@@ -34,7 +34,7 @@ Time spent: **X** hours spent in total
   - Vulnerability types:
   - Tested in version:
   - Fixed in version: 
-- [ ] GIF Walkthrough: 
+- [ ] GIF Walkthrough: <img src= "https://github.com/ShivaniNanan/Wordpress-Pen-Testing/blob/main/xsscrosssite.gif" alt="ThirdTest GIF">
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
