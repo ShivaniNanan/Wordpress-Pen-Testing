@@ -12,7 +12,7 @@ Time spent: **X** hours spent in total
   - Vulnerability types:
   - Tested in version:
   - Fixed in version: 
-- [ ] GIF Walkthrough: <img src="https://s4.ezgif.com/save/ezgif-4-c786af460e.gif" alt="My Project GIF">
+- [ ] GIF Walkthrough: <img src="C:\Users\shani\OneDrive\Desktop\userenumeration.gif"" alt="My Project GIF">
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -23,7 +23,7 @@ Time spent: **X** hours spent in total
   - Vulnerability types:
   - Tested in version:
   - Fixed in version: 
-- [ ] GIF Walkthrough: 
+- [ ] GIF Walkthrough: "C:\Users\shani\OneDrive\Desktop\userenumeration.gif"
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
