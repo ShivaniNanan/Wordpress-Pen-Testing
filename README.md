@@ -32,7 +32,7 @@ Time spent: **15** hours spent in total
     2. Create a custom html in the block
     3. Write the appropriate script using "onerror"
     4. Select Preview and payload will execute
-- [ ] Affected source code:
+- [ ] Affected source code: http://wpdistillery.vm/?p=33
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
 ### 3. Stored Cross Site Scripting (XSS)
@@ -46,7 +46,7 @@ Time spent: **15** hours spent in total
     1. As an admin, create a post
     2. Add an alert script to a URL using "onload" 
     3. Preview the post
-- [ ] Affected source code:
+- [ ] Affected source code: http://wpdistillery.vm/?p=54
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
 
