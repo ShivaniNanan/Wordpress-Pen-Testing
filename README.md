@@ -30,7 +30,7 @@ Time spent: **15** hours spent in total
 - [ ] Steps to recreate: 
     1. As an admin, create a new post
     2. Create a custom html in the block
-    3. Write the appropriate script
+    3. Write the appropriate script using "onerror"
     4. Select Preview and payload will execute
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
